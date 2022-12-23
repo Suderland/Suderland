@@ -7,7 +7,14 @@
   <p>  
 I am a highly skilled Web developer and data scientist with experience in various technologies and programming languages, including JavaScript, Python and SQL. Skilled at writing well-designed, clean code, testable and efficient code using current best practices in Web development. 
     
-I also have a good background in machine learning, and I am proficient in using various tools and techniques to build and deploy predictive models. I have a strong technical background and excellent problem-solving skills, which allow me to deliver high-quality solutions in software development projects. In addition, I enjoy working in a team environment to achieve common goals. I am always seeking new challenges and opportunities to further my professional development and contribute to the success of the projects I work on.
+I also have a good background in machine learning, and I am proficient in using various tools and techniques to build and deploy predictive models. I have a strong technical background and excellent problem-solving skills, which allow me to deliver high-quality solutions in software development projects.
+    
+Some of my recent projects include:
+
+- API of the Gov.BR portal: this API that allows any Brazilian citizen to log in to www.gov.br/ and thus gain access to various useful services of the Federal Government, depending on their level of security in the system, such as certificates, official documents, digital signature, etc.
+
+- GaaP (Government as a platform): this API is an innovative way to connect government and non-governmental sectors through data sharing with security, trust and privacy guarantee. With GaaP, a citizen can consent to the use of their personal data to improve their experience in the consumption of public and private services of interest to them.
+    
   </p>
 </div>
 
