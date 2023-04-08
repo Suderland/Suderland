@@ -35,7 +35,7 @@ Some of my recent projects include:
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suderland&repo=analise-sentimento-bert&show_owner=true)](https://github.com/Suderland/analise-sentimento-bert)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suderland&repo=clean-architecture-example&show_owner=true)](https://github.com/Suderland/clean-architecture-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suderland&repo=sales-project-clean-code-clean-architecture&show_owner=true)](https://github.com/Suderland/sales-project-clean-code-clean-architecture)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
